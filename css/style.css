@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1140px;
+    margin: auto;
+}
+.w-25{
+    width: 25%;
+    padding: 15px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex{
+    display: flex;
+}
+.counter{
+    margin-top: 100px;
+}
+.counter i{
+    font-size: 40px;
+}
+.counter-content h3{
+    font-size: 40px;
+}
+.counter-content p{
+    font-size: 14px;
+    font-family: sans-serif;
+}
+.counter-content p span{
+    font-weight: bold;
+}
+.counter-main{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 30px;
+    color: #2f4d5a
+
+}
+.fa-facebook{
+    color: #4267B2;
+}
+.fa-instagram{
+    color:#405DE6 ;
+}
+.fa-twitter{
+    color:#1DA1F2 ;
+}
+.fa-linkedin{
+    color:#0A66C2 ;
+}
